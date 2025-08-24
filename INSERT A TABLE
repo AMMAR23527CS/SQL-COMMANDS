@@ -1,0 +1,8 @@
+insert into COMPANY(ID,First_Name, Department,Hire_date,Salary)
+values(14,'Shahzaib','BSCS',2023-07-11,30000);
+insert into COMPANY(ID,First_Name, Department,Hire_date,Salary)
+values(27,'AMMAR','BSCS',2023-6-11,40000);
+insert into COMPANY(ID,First_Name, Department,Hire_date,Salary)
+values(28,'Virk','BSCS',2023-5-11,450000);
+insert into COMPANY(ID,First_Name, Department,Hire_date,Salary)
+values(50,'Hfiz saab','BSCS',2023-4-11,50000);
