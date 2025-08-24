@@ -1,0 +1,2 @@
+alter table COMPANY 
+RENAME COLUMN First_Name to Name
