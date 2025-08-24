@@ -1,0 +1,10 @@
+-- A table is created by the name of Company
+
+CREATE TABLE COMPANY
+(
+  ID INT PRIMARY KEY,
+  First_Name varchar(100) NOT NULL,
+  Department varchar(50),
+  Hire_date date,
+  Salary numeric (10,2)
+);
